@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+.pozadina  {background-image: url("pozadinskaslika.jpg");}
+.drugapozadina {background-color: darkseagreen;}
+p {
+  font-family:sans-serif;
+  color: black;
+  font-size: 25px;
+  background-color: white;
+  padding: 20px;
+}
+h1 { 
+  font-family:serif;
+  font-size: 40px;
+  color: darkslategray;
+}
+h2 { 
+  font-family:serif;
+  font-size: 32px;
+  color: black;
+}
+h3 { 
+  font-family:serif;
+  font-size: 30px;
+  color: black;
+}
